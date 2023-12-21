@@ -4,9 +4,9 @@ youtube-dl - download videos from youtube.com or other video platforms
 
 To use with GUI:
 
-git clone to local folder.
-cd into the GUI for Youtube Downloader folder.
-run python gui.py
+git clone to where you want to launch GUI.\n
+cd into the GUI for Youtube Downloader folder.\n
+run python gui.py\n
 Enjoy!
 
 - [INSTALLATION](#installation)
