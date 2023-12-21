@@ -1,7 +1,13 @@
 [![Build Status](https://github.com/ytdl-org/youtube-dl/workflows/CI/badge.svg)](https://github.com/ytdl-org/youtube-dl/actions?query=workflow%3ACI)
 
-
 youtube-dl - download videos from youtube.com or other video platforms
+
+To use with GUI:
+
+git clone to local folder.
+cd into the GUI for Youtube Downloader folder.
+run python gui.py
+Enjoy!
 
 - [INSTALLATION](#installation)
 - [DESCRIPTION](#description)
